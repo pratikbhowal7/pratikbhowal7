@@ -29,7 +29,7 @@ src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=java,kotlin,androidstudio,firebase,git,github,mysql,sqlite" />
+<img src="https://skillicons.dev/icons?i=java,kotlin,androidstudio,firebase,git,github" />
 </p>
 
 ---
