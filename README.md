@@ -1,54 +1,64 @@
-# Hi 👋, I'm Pratik Bhowal
+<h1 align="center">Hi 👋, I'm Pratik Bhowal</h1>
+<h3 align="center">A passionate Android Developer from India</h3>
 
-### B.Tech CSE Student at NIT Agartala
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=pratikbhowal7&label=Profile%20views&color=0e75b6&style=flat" alt="pratikbhowal7" />
+</p>
 
-📱 Passionate Android Developer
+<img align="right" alt="Coding" width="400"
+src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-💻 Currently learning Java DSA and Android Development
+- 🌱 I'm currently learning **Android Development, MVVM & DSA**
 
-🔥 Building NITA Campus – A College Companion App for NIT Agartala
+- 📱 Building **NITA Campus**
 
-🌱 Exploring MVVM, Firebase, REST APIs and Modern Android Architecture
+- 💻 Working with **Kotlin, Firebase, Java**
 
----
+- 🎯 Goal: **Software Development Internship**
 
-## 🚀 Tech Stack
+- 📫 Reach me at: **pratikbhowal63@gmail.com**
 
-![My Skills](https://skillicons.dev/icons?i=java,kotlin,androidstudio,firebase,git,github,mysql)
+<h3 align="left">Connect with me:</h3>
+
+<p align="left">
+<a href="https://www.linkedin.com/" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
+</a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=java,kotlin,androidstudio,firebase,git,github,mysql,sqlite" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-![Pratik's GitHub stats](https://github-readme-stats.vercel.app/api?username=pratikbhowal7&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=pratikbhowal7&show_icons=true&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=pratikbhowal7)
+![](https://github-readme-streak-stats.herokuapp.com/?user=pratikbhowal7&theme=tokyonight)
 
----
-
-## 🧠 Coding Profiles
-
-- LeetCode: https://leetcode.com/u/Itz_Pratik/
-- GitHub: https://github.com/pratikbhowal7
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pratikbhowal7&layout=compact&theme=tokyonight)
 
 ---
 
-## 📌 Featured Project
+## 🚀 Featured Project
 
 ### NITA Campus
 
-A modern Android application built for NIT Agartala students.
+A modern Android application developed for NIT Agartala students.
 
 #### Features
 - Student Dashboard
-- Department Information
-- Campus Facilities
 - Authentication
 - Firebase Integration
-- Notices & Resources
-- Modern Android UI
+- Campus Facilities
+- Department Information
+- Modern UI
 
-#### Tech Used
+#### Tech Stack
 - Kotlin
 - Firebase
 - MVVM
@@ -63,8 +73,3 @@ A modern Android application built for NIT Agartala students.
 - Master Android Development
 - Complete NITA Campus
 - Crack Software Development Internship
-- Improve Open Source Contributions
-
----
-
-⭐ Always learning and building.
