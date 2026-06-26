@@ -47,37 +47,24 @@ src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 ## 🏆 Certificates
 
-<table>
-<tr>
-<td>
-
-- 📜 Android Development – Google
 - ## 🏅 Badges
-<img src="b1" alt="Badge Name" width="100">
-<img src="b2" alt="Badge Name" width="100">
 
+### Android Development – Google
 
-<p align="left">
-  <a href="BADGE_LINK_1">
-    <img src="BADGE_IMAGE_URL_1" height="90" alt="Badge 1"/>
-  </a>
-  <a href="BADGE_LINK_2">
-    <img src="BADGE_IMAGE_URL_2" height="90" alt="Badge 2"/>
-  </a>
-  <a href="BADGE_LINK_3">
-    <img src="BADGE_IMAGE_URL_3" height="90" alt="Badge 3"/>
-  </a>
-</p>
-- 📜 Kotlin for Android – Coursera
-- 📜 Java Programming – Oracle/Coursera
-- 📜 SQL (Basic) – HackerRank
-- 📜 Problem Solving (Basic) – HackerRank
-- 📜 Git & GitHub – Udemy
-- 📜 Firebase for Android – Google
+<div align="left">
+  <img src="b1.png" alt="Badge 1" width="80">
+  <img src="b2.png" alt="Badge 2" width="80">
+  <img src="b3.png" alt="Badge 3" width="80">
+</div>
 
-</td>
-</tr>
-</table>
+### Other Certifications
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Kotlin_for_Android-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
+  <img src="https://img.shields.io/badge/Git_&_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/Firebase_for_Android-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
+</div>
+
 
 ## 🚀 Featured Project
 
