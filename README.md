@@ -53,8 +53,9 @@ src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 - 📜 Android Development – Google
 - ## 🏅 Badges
-- <img src="YOUR_BADGE_IMAGE_URL" alt="Badge Name" width="100">
-<img src="YOUR_BADGE_IMAGE_URL" alt="Badge Name" width="100">
+<img src="b1" alt="Badge Name" width="100">
+<img src="b2" alt="Badge Name" width="100">
+
 
 <p align="left">
   <a href="BADGE_LINK_1">
