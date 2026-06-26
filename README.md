@@ -29,7 +29,8 @@ src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=java,kotlin,androidstudio,firebase,git,github" />
+  <img src="https://skillicons.dev/icons?i=java,kotlin,androidstudio,firebase,git,github" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetpackcompose/jetpackcompose-original.svg" height="48" alt="Jetpack Compose" />
 </p>
 
 ---
@@ -43,6 +44,39 @@ src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pratikbhowal7&layout=compact&theme=tokyonight)
 
 ---
+
+## 🏆 Certificates
+
+<table>
+<tr>
+<td>
+
+- 📜 Android Development – Google
+- ## 🏅 Badges
+- <img src="YOUR_BADGE_IMAGE_URL" alt="Badge Name" width="100">
+<img src="YOUR_BADGE_IMAGE_URL" alt="Badge Name" width="100">
+
+<p align="left">
+  <a href="BADGE_LINK_1">
+    <img src="BADGE_IMAGE_URL_1" height="90" alt="Badge 1"/>
+  </a>
+  <a href="BADGE_LINK_2">
+    <img src="BADGE_IMAGE_URL_2" height="90" alt="Badge 2"/>
+  </a>
+  <a href="BADGE_LINK_3">
+    <img src="BADGE_IMAGE_URL_3" height="90" alt="Badge 3"/>
+  </a>
+</p>
+- 📜 Kotlin for Android – Coursera
+- 📜 Java Programming – Oracle/Coursera
+- 📜 SQL (Basic) – HackerRank
+- 📜 Problem Solving (Basic) – HackerRank
+- 📜 Git & GitHub – Udemy
+- 📜 Firebase for Android – Google
+
+</td>
+</tr>
+</table>
 
 ## 🚀 Featured Project
 
