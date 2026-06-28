@@ -93,5 +93,4 @@ A modern Android application developed for NIT Agartala students.
 
 - Solve 300+ LeetCode Problems
 - Master Android Development
-- Complete NITA Campus
 - Crack Software Development Internship
