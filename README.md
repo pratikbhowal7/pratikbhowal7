@@ -24,16 +24,40 @@ src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <a href="https://www.linkedin.com/" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
+
+<h3 align="left">Tech Stack</h3>
+
+<!-- Programming Languages -->
+<h4 align="left">Programming Languages</h4>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java" height="48" alt="Java" />
+  <img src="https://skillicons.dev/icons?i=kotlin" height="48" alt="Kotlin" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="48" alt="C++" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-
+<!-- Frameworks & Libraries -->
+<h4 align="left">Frameworks & Libraries</h4>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,kotlin,androidstudio,firebase,git,github" />
+  <img src="https://skillicons.dev/icons?i=androidstudio" height="48" alt="Android Studio" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="48" alt="Firebase" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetpackcompose/jetpackcompose-original.svg" height="48" alt="Jetpack Compose" />
 </p>
 
----
+<!-- Databases -->
+<h4 align="left">Databases</h4>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=firebase" height="48" alt="Firebase" />
+</p>
+
+<!-- Tools & IDEs -->
+<h4 align="left">Tools & IDEs</h4>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=idea" height="48" alt="IntelliJ IDEA" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="48" alt="VS Code" />
+  <img src="https://skillicons.dev/icons?i=androidstudio" height="48" alt="Android Studio" />
+  <img src="https://skillicons.dev/icons?i=git" height="48" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=github" height="48" alt="GitHub" />
+</p>
 
 ## 📊 GitHub Stats
 
